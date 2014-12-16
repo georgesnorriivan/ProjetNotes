@@ -9,5 +9,4 @@ public class Directeur extends Utilisateur {
 		super(id,prenom,nom,mdp);
 	}
 //Changment test
-//il reste a finir les methodes
 }
